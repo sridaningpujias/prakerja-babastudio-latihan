@@ -1,2 +1,2 @@
 # prakerja-babastudio-latihan
-Ini adalah latihan membuat sebuat repository
+Ini adalah latihan membuat sebuah repository
